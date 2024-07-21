@@ -12,7 +12,7 @@ This project will allow users to answer questions in real-time, compete with oth
 Clone the repository to get Design_Document.pdf
 
 ## Installation
-1. Clone the repository and unzip file realtime-quiz.zip
+1. Clone the repository
 2. Navigate to the frontend project directory
 3. Install dependencies:
     ```bash
